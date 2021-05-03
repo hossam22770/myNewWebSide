@@ -1,0 +1,439 @@
+
+.home-bac
+{
+    background-image: url(../bg.jpeg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+.main-color
+{
+    color: #f25454;
+}
+.ahmar:hover
+{
+    color: #fff;
+}
+.abyad
+{
+    color:#fff;
+}
+.abyad:hover
+{
+    color: #f25454;
+}
+.sting
+{
+    position: fixed;
+    top:20%;
+    left: 0;
+    width: 39px;
+    height: 39px;
+    z-index: 10000000000;
+
+}
+.i-sting
+{
+    background-color: #1f2528;
+    padding: 10px;
+
+}
+.m3t
+{
+    margin-bottom: 240px;
+}
+.navi
+{
+    z-index: 23223;
+    height: 13%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+   box-shadow: 10px rgba(255, 255, 255, 0.2);
+}
+.icon-chan:hover
+{
+    color: #f25454 !important;
+}
+.pr-pos
+{
+    position:absolute;
+    top: 34%;
+    left: 9.8%;
+    height: 20px;
+    color:#f25454 !important;
+}
+.nx-pos
+{
+    position:absolute !important;
+    top: 40% !important;
+    left: -557% !important;
+    color: #f25454 !important;
+}
+.shad
+{
+    font-size: 30px;
+    position: relative;
+    margin: auto;
+}
+.shad::after
+{
+    content: "A";
+    position: absolute;
+    top: 25px;
+    left: 48.9%;
+    text-align: center;
+    font-size: 70px;
+    color: rgba(155, 94, 94, 0.3);
+    
+}
+.shad::before
+{
+    content: "";
+    width: 80px;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    top: 80%;
+    left: 47.5%;
+}
+.dist
+{
+    margin-bottom: 50px;
+
+}
+.shad1
+{
+    font-size: 30px;
+    position: relative;
+    margin:50px auto;
+    margin-bottom: 20px;
+}
+.shad1::after
+{
+    content: "o";
+    position: absolute;
+    top: -40px;
+    left: 48.9%;
+    text-align: center;
+    font-size: 70px;
+    color: rgba(155, 94, 94, 0.3);
+    
+}
+.shad1::before
+{
+    content: "";
+    width: 80px;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    top: 110%;
+    left:47.5%;
+}
+.f-wi
+{
+    font-size: 18px;
+}
+.btr
+{
+    background-color: #f25454;
+    color: #fff;
+}
+.marg
+{
+    font-family:  sans-serif;
+}
+.shad2
+{
+    font-size: 30px;
+    position: relative;
+    margin: auto;
+}
+h3
+{
+    font-size: 18px;
+}
+.shad2::after
+{
+    content: "s";
+    position: absolute;
+    top: -40px;
+    left: 48.9%;
+    text-align: center;
+    font-size: 70px;
+    color: rgba(155, 94, 94, 0.3);
+    
+}
+.shad2::before
+{
+    content: "";
+    width: 80px;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    top: 100%;
+    left: 46.5%;
+}
+.fon-c
+{
+    color:#666 ;
+}
+.non:hover .pole
+{
+    color:#f25454;
+}
+.pole
+{
+    transition: all .4s;
+    font-family: "Poppins", sans-serif;
+    color: #282828;
+    font-weight: 600;
+}
+
+
+.m-t
+{
+    margin-top: 50px;
+}
+.tran
+{
+    translate: X(-50%);
+}
+.img-wigh
+{
+    width: 10%;
+}
+.shad3
+{
+    font-size: 30px;
+    position: relative;
+    margin:50px auto;
+    margin-bottom: 20px;
+}
+.shad3::after
+{
+    content: "c";
+    position: absolute;
+    top: -40px;
+    left: 48.9%;
+    text-align: center;
+    font-size: 70px;
+    color: rgba(155, 94, 94, 0.3);
+    
+}
+.shad3::before
+{
+    content: "";
+    width: 80px;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    top: 110%;
+    left:46.8%;
+}
+h2:hover ::before
+{
+    width: 100px;
+}
+.m-au
+{
+    margin: auto !important;
+}
+.parant
+{
+    display: block;
+    width: 100%px;
+    height: 3px;
+    background-color: #f25454;
+   position: relative;
+}
+
+.parant::after
+{
+    content: "80%";
+    position: absolute;
+    bottom: 8px;
+    right: 20%;
+}
+.chaild
+{
+    width: 20%;
+    height: 3px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color:#eee;
+}
+.parant1
+{
+    display: block;
+    width: 100%px;
+    height: 3px;
+    background-color: #f25454;
+   position: relative;
+}
+
+.parant1::after
+{
+    content: "75%";
+    position: absolute;
+    bottom: 8px;
+    right: 20%;
+}
+.chaild1
+{
+    width: 35%;
+    height: 3px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color:#eee;
+}
+.parant2
+{
+    display: block;
+    width: 100%px;
+    height: 3px;
+    background-color: #f25454;
+   position: relative;
+}
+
+.parant2::after
+{
+    content: "90%";
+    position: absolute;
+    bottom: 8px;
+    right: 10%;
+}
+.chaild2
+{
+    width: 15%;
+    height: 3px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color:#eee;
+}
+.parant3
+{
+    display: block;
+    width: 100%px;
+    height: 3px;
+    background-color: #f25454;
+   position: relative;
+}
+
+.parant3::after
+{
+    content: "70%";
+    position: absolute;
+    bottom: 8px;
+    right: 10%;
+}
+.posit-gif
+{
+  bottom: 10%;
+  left: 50%;
+}
+.cfont
+{
+    font-size: 40px;
+    color: #f25454;
+}
+.btn-prim
+{
+    background-color:#f25454 ;
+    color: #fff;
+}
+.chaild3
+{
+    width: 30%;
+    height: 3px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color:#eee;
+}
+
+.posit-gif
+{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    z-index: 10000000000000 !important;
+   
+    width: 30px;
+    font-size: 30px;
+}
+.posit-gif img
+{
+ width: 100%;
+}
+
+.font-te
+{
+    font-weight: 400;
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.layer
+{
+    position: absolute;
+    top: 0;
+    left:0 ;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(242, 84, 84, 0.85) !important;    
+    opacity: 0;
+    transition: all .3s;
+}
+.layer:hover
+{
+    opacity: 1 !important;
+}
+.m-t-ph
+{
+ position: relative;
+ top: 50px;
+}
+.shad4
+{
+    font-size: 30px;
+    position: relative;
+    margin:50px auto;
+    margin-bottom: 20px;
+}
+.shad4::after
+{
+    content: "G";
+    position: absolute;
+    top: -40px;
+    left: 48.9%;
+    text-align: center;
+    font-size: 70px;
+    color: rgba(155, 94, 94, 0.3);
+    
+}
+.shad4::before
+{
+    content: "";
+    width: 80px;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    top: 110%;
+    left:47.8%;
+}
+.fon-wgh
+{
+    font-size: 32px;
+    font-weight: 600;
+}
+.form-s
+{
+    width: 100%;
+    line-height: 1;
+    padding: 14px 18px;
+    color: #a6a6a6;
+    border-radius: 3px;
+    border: 2px solid #eee;
+    background-color: #fff;
+}
